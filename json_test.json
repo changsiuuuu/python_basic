@@ -1,0 +1,10 @@
+{
+    "name":"이창수", 
+    "addr":"부산광역시",
+    "foods":["메밀소바","치킨"],
+    "isMan":true,
+    "body":{
+        "weight":75,
+        "height":174
+    }
+}
