@@ -8,3 +8,10 @@ git clone ...
 cd ...
 python ...
 ```
+```python
+num: int = 10
+name: list = [10, 20, 30]
+
+def test():
+    pass
+```
