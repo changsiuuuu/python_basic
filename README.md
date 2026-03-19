@@ -10,7 +10,7 @@ python ...
 ```
 ```python
 num: int = 10
-name: list = [10, 20, 30]
+name: list = [10, 20, 30, 40]
 
 def test():
     pass
